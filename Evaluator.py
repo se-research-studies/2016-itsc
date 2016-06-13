@@ -7,7 +7,7 @@ import numpy as np
 from classifier import imageRead
 from classifier.VPClassifier import VPClassifier
 #from evaluation.SSIMFinder import SSIMFinder
-from evaluation.TrapezoidMask import *
+from TrapezoidMask import *
 from ImageReader import ImageReader
 from Loggable import Loggable
 
